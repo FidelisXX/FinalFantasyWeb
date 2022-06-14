@@ -1,0 +1,13 @@
+div biografia{
+    background-color: rgb(238, 235, 65);
+    
+}
+div biografia .h1{
+    color:rgb(240, 243, 53);
+}
+div indice{
+    background-color:aqua;
+}
+div indice .h4{
+    color:aquamarine;
+}
